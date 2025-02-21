@@ -1,1 +1,9 @@
-./*.pdf
+/.idea/jupyter-settings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/question1.iml
+/.idea/vcs.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/SVM_MNIST.pdf
+/LOGISTIC_REGRESSION_MNIST.pdf
